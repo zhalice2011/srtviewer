@@ -1,13 +1,10 @@
 ---
-id: apis-ios
-title: iOS API文档
----
----
 
-<div id='iframe_part' style='width: 1080px; height: 780px'>
-    <iframe id="iframe" src='https://pag.art/docs/apis-ios.html' style='width:100%; height: 100%; paddingTop:32px'></iframe>
-</div>
+[IOS API 文档](https://pag.art/docs/apis-ios.html)
+
+<img width="1412" alt="image" src="https://user-images.githubusercontent.com/24289349/228228580-65358213-ef55-454d-b795-80a41b2e243f.png">
 
 ---
+
 
 
